@@ -1,11 +1,15 @@
+data/
+*.out
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*/__pycache__
 *.py[cod]
 *$py.class
-
+.idea
 # C extensions
 *.so
-
+.env
 # Distribution / packaging
 .Python
 env/
